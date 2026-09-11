@@ -90,7 +90,7 @@ himesh@dev ~ % git log --stats
   Self-hosted in your own repo, so it never breaks from third-party
   rate limits. One-time setup below.
 -->
-<img src="https://raw.githubusercontent.com/himeshpandeyio/himeshpandeyio/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/himeshpandeyio/himeshpandeyio/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
