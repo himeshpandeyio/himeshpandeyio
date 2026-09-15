@@ -25,7 +25,7 @@ himesh@dev ~ % cat about.md
 - `🔭` Currently building modern web applications end-to-end
 - `🌱` Sharpening front-end architecture and performance skills
 - `🤝` Open to collaborating on interesting web projects
-- `📡` Reach me for React / TypeScript / Node.js work
+- `📡` Reach me for c# / ReactJS / NextJS / TypeScript / python Django work
 
 <br/>
 
@@ -41,6 +41,8 @@ himesh@dev ~ % ls stack/
 <br/><br/>
 <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=239120" />
 <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6" />
 
@@ -51,7 +53,6 @@ himesh@dev ~ % ls stack/
 <br/><br/>
 <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=339933" />
 <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
 
 </td>
@@ -61,8 +62,6 @@ himesh@dev ~ % ls stack/
 <br/><br/>
 <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" />
 
 </td>
 </tr>
@@ -104,20 +103,33 @@ himesh@dev ~ % ls projects/ --featured
 <tr>
 <td width="50%">
 
-**[Project One](#)**
+**[MovieFlix](#)**
 <br/>
-Short description of what this project does and the problem it solves.
+Movie Streaming app (only frontend part)<br/>
+<a href="https://moviestreaminghp.netlify.app/">Click to View</a>
 <br/>
-`React` `Node.js` `MongoDB`
+`ReactJS` `CSS` `API`
 
 </td>
 <td width="50%">
 
-**[Project Two](#)**
+**[C# mini projects](#)**
 <br/>
-Short description of what this project does and the problem it solves.
+   C# programs mini projects (fundamentals + OOP)
 <br/>
-`Next.js` `TypeScript` `Tailwind`
+`c#`
+
+**[Blog App](#)**
+<br/>
+Blog app (only frontend part)
+<br/>
+`NextJS` `Tailwind CSS`
+
+**[Python Mini projects](#)**
+<br/>
+Python programs mini projects (fundamentals + OOP)
+<br/>
+`Python`
 
 </td>
 </tr>
