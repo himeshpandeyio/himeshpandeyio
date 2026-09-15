@@ -5,9 +5,9 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=himeshpandeyio&color=58A6FF&style=flat-square&label=views" />
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=flat-square&logo=linkedin&logoColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/himesh-pandey-11325129a/"><img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=flat-square&logo=linkedin&logoColor=0D1117" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=vercel&logoColor=0D1117" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-58A6FF?style=flat-square&logo=gmail&logoColor=0D1117" /></a>
+<a href = "mailto:pandeyhimesh65@gmail.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=flat-square&logo=gmail&logoColor=0D1117" /></a>
 
 </div>
 
