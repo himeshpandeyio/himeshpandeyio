@@ -16,11 +16,12 @@
 ```bash
 himesh@dev ~ % cat about.md
 ```
-
 > Web developer building fast, accessible, and well-engineered products
 > across the stack — from pixel-perfect front ends to the APIs and data
 > layers behind them. I care about clean code, sharp UX, and shipping
 > things that hold up in production.
+> 
+Currently studyiing BSc CSIT at Amrit Campus, building real production systems while studying
 
 - `🔭` Currently building modern web applications end-to-end
 - `🌱` Sharpening front-end architecture and performance skills
