@@ -106,7 +106,7 @@ himesh@dev ~ % ls projects/ --featured
 **[MovieFlix](#)**
 <br/>
 Movie Streaming app (only frontend part)<br/>
-<a href="https://moviestreaminghp.netlify.app/">Click to View</a>
+<a href="https://moviestreaminghp.netlify.app/" target="_blank">Click to View</a>
 <br/>
 `ReactJS` `CSS` `API`
 
@@ -116,19 +116,19 @@ Movie Streaming app (only frontend part)<br/>
 **[C# mini projects](#)**
 <br/>
    C# programs mini projects (fundamentals + OOP)
-<br/>
-`c#`
+   <p>Check Repository</p>
+  `C#`
 
 **[Blog App](#)**
 <br/>
-Blog app (only frontend part)
+Blog app using NextJS(only frontend part)<br/>
+<p>Check Repository</p>
 <br/>
-`NextJS` `Tailwind CSS`
 
 **[Python Mini projects](#)**
 <br/>
 Python programs mini projects (fundamentals + OOP)
-<br/>
+<a href="https://github.com/himeshpandeyio/Python">Click to View</a>
 `Python`
 
 </td>
@@ -143,8 +143,6 @@ himesh@dev ~ % echo "let's connect"
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
+<a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
