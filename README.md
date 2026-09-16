@@ -104,6 +104,12 @@ himesh@dev ~ % ls projects/ --featured
 <tr>
 <td width="50%">
 
+**[Task Manager](#)**
+<br/>
+Task Manager fullstack project using Django and ReactJS<br/>
+<p>Check Repository</p>
+<br/>
+
 **[MovieFlix](#)**
 <br/>
 Movie Streaming app (only frontend part)<br/>
