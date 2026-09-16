@@ -107,7 +107,7 @@ himesh@dev ~ % ls projects/ --featured
 **[Task Manager](#)**
 <br/>
 Task Manager fullstack project using Django and ReactJS<br/>
-<p>Check Repository</p>
+<p>Check Repository [React-Django]</p>
 <br/>
 
 **[MovieFlix](#)**
