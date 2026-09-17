@@ -83,65 +83,6 @@ himesh@dev ~ % git log --stats
 
 <br/>
 
-<div align="center">
-
-<!--
-  Contribution snake — animates your commit graph eating itself.
-  Self-hosted in your own repo, so it never breaks from third-party
-  rate limits. One-time setup below.
--->
-<img src="https://raw.githubusercontent.com/himeshpandeyio/himeshpandeyio/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-<br/>
-
-```bash
-himesh@dev ~ % ls projects/ --featured
-```
-
-<table>
-<tr>
-<td width="50%">
-
-**[Task Manager](#)**
-<br/>
-Task Manager fullstack project using Django and ReactJS<br/>
-<p>Check Repository [React-Django]</p>
-<br/>
-
-**[MovieFlix](#)**
-<br/>
-Movie Streaming app (only frontend part)<br/>
-<a href="https://moviestreaminghp.netlify.app/" target="_blank">Click to View</a>
-<br/>
-`ReactJS` `CSS` `API`
-
-</td>
-<td width="50%">
-
-**[C# mini projects](#)**
-<br/>
-   C# programs mini projects (fundamentals + OOP)
-   <p>Check Repository</p>
-  `C#`
-
-**[Blog App](#)**
-<br/>
-Blog app using NextJS(only frontend part)<br/>
-<p>Check Repository</p>
-<br/>
-
-**[Python Mini projects](#)**
-<br/>
-Python programs mini projects (fundamentals + OOP)
-<a href="https://github.com/himeshpandeyio/Python">Click to View</a>
-`Python`
-
-</td>
-</tr>
-</table>
-
 <br/>
 
 ```bash
